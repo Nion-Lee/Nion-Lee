@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nion-Lee.
 - 👀 I’m interested in Cat, The law of one, Microservices.
 - 🌱 I’m currently learning K8S, Dapr, LeetCode medium.
-- 💞️ I’m looking to collaborate with enterprise which provides generous remuneration. 
+- 💞️ I’m looking to collaborate with enterprise offering generous remuneration. 
 - 📫 How to reach me:  
 👉 My Linkedin: https://www.linkedin.com/in/nion-lee-8b394a11b/  
 👉 My Email: nionismine@yahoo.com.tw  
